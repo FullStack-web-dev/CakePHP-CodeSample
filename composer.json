@@ -12,7 +12,7 @@
         "cakedc/cakephp-api": "3.4.x-dev",
         "cakedc/users": "*",
         "cakephp/authentication": "*",
-        "firebase/php-jwt": "~4.0",
+        "firebase/php-jwt": "~6.0",
         "muffin/slug": "1.*",
         "muffin/tags": "dev-master",
         "skie/cakephp-factory-muffin": "*",
